@@ -1,0 +1,5 @@
+# Conector JDBC
+JayDeBeApi==1.2.3
+
+# Conector a postgresql
+psycopg2==2.9.3
